@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.homework-17286/README.md",
+            "file": "1-homework-17286/README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.homework-17286/README.md",
+                "file": "1-homework-17286/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.homework-17286/README.md",
+                "file": "1-homework-17286/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.homework-17286/README.md"
+                "file": "1-homework-17286/README.md"
               }
             }
           }
@@ -131,6 +131,6 @@
   "active": "6490ed2684f97aa1",
   "lastOpenFiles": [
     "2. Процесс разработки ПО. Waterfall. Системный анализ в Agile командах/README.md",
-    "1.homework-17286/README.md"
+    "1-homework-17286/README.md"
   ]
 }
