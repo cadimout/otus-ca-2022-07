@@ -32,6 +32,7 @@ proguard/
 
 #Obsidian
 .obsidian/
+
 # Android Studio Navigation editor temp files
 .navigation/
 
